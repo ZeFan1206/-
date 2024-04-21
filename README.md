@@ -11,7 +11,7 @@
 </a>
 <br />
 <br />
-<img align="right" alt="GIF" src="h[ttps://raw.githubusercontent.com/ZeFan1206/-/main/b_21862b5a205b4e419a3fbf6e78fb3972.jpg](https://raw.githubusercontent.com/ZeFan1206/-/main/gif.gif)" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ZeFan1206/-/main/gif.gif" />
 ### I'm Zefan Studio 
 
 - ⚡ `PHP` && `软件开发` && `打游戏`
